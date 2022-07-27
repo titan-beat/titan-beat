@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ignacio Fuentes</h1>
-<h3 align="center"> Full Stack developer from Santiago Chile</h3>
+<h3 align="center"> Full Stack developer Trainee from Santiago Chile</h3>
 <div align="center" >
   
 <p>💬 " Me apasiona aprender cosas nuevas, programar es
