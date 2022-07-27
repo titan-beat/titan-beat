@@ -25,7 +25,7 @@ problema. " 💬</p>
   
    <tr>
     <td align="center">Disposición para aprender nuevas tecnologias</td>
-    <td></td>
+
   </tr>
 
 </table>
