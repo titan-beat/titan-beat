@@ -1,14 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ignacio Fuentes</h1>
-<h3 align="center">A passionate frontend developer from Santiago Chile</h3>
+<h3 align="center">A passionate Full Stack developer from Santiago Chile</h3>
 <div align="center" >
+  
+<p>💬 " Me apasiona aprender cosas nuevas, programar es
+sinónimo de aprendizaje constante, tanto en la inquietud
+de un desafío como en la satisfacción de haber resuelto un
+problema. " 💬</p>
+
+ 
 <p>🌱 I’m currently learning **, i love learn new tecnologies**</p>
-
-<p>💬 Ask me about **Html, Css, Java, SQL, GIT**</p>
-
-<p>📫 How to reach me **ifuentesrojo@gmail.com**</p>
+ 
+ <h3></h3>
+ 
+ 
+ 
+<p>📫 Email: ifuentesrojo@gmail.com </p>
  <div>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Linkedin</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ignacio-fuentes-rojo-987936107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacio-fuentes-rojo-987936107/" height="30" width="40" /></a>
 </p>
