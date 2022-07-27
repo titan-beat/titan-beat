@@ -7,17 +7,34 @@ sinónimo de aprendizaje constante, tanto en la inquietud
 de un desafío como en la satisfacción de haber resuelto un
 problema. " 💬</p>
 
- <h3>Idiomas</h3>
-<p> Español 🌱 Nativo</p>
-<p> Ingles 🌱 Intermedio</p>
+<table class="default">
 
- <h3>Habilidades</h3>
-<p> Creatividad</p>
-<p> Capacidad de trabajo en equipo</p>
-<p> Disposición para aprender nuevas tecnologias</p>
+  <tr>
+    <td><h3 align="center"><Strong>Habilidades</Strong></h3></td>
+    <td><h3 align="center"><Strong>Idiomas</Strong></h3></td>
+  </tr>
+
+  <tr>
+    <td align="center">Creatividad</td>
+    <td align="center">Español 🌱 Nativo</td>
+  </tr>
+    <tr>
+    <td align="center">Capacidad de trabajo en equipo</td>
+    <td align="center"> Ingles 🌱 Intermedio</td>
+  </tr>
+  
+   <tr>
+    <td align="center">Disposición para aprender nuevas tecnologias</td>
+    <td></td>
+  </tr>
+
+</table>
+ 
+
+
  
 <p>📫 Email: ifuentesrojo@gmail.com </p>
- <div>
+ </div>
 
 <h3 align="center">Linkedin</h3>
 <p align="center">
