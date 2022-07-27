@@ -10,8 +10,8 @@ problema. " 💬</p>
 <table class="default">
 
   <tr>
-    <td><h3 align="center"><Strong>Habilidades</Strong></h3></td>
-    <td><h3 align="center"><Strong>Idiomas</Strong></h3></td>
+    <td align="center"><Strong>Habilidades</Strong></td>
+    <td align="center"><Strong>Idiomas</Strong></td>
   </tr>
 
   <tr>
