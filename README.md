@@ -4,7 +4,7 @@
   
 <p>💬 " Me apasiona aprender cosas nuevas, programar es
 sinónimo de aprendizaje constante, tanto en la inquietud
-de un desafío como en la satisfacción de haber resuelto un
+de un desafío como en la satisfacción de resolver un
 problema. " 💬</p>
 <br>
 <table class="default">
